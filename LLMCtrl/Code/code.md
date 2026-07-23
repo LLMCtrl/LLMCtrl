@@ -1,3 +1,1 @@
-# We Are Organizing the Code
-
-We are organizing the code.
+We are currently organizing the code and preparing the release of the source code and corresponding experimental configurations.
