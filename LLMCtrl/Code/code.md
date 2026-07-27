@@ -1,1 +1,2 @@
 We are currently organizing the code and preparing the release of the source code and corresponding experimental configurations.
+The code in the `disparity` folder under this directory implements the disparity metrix used in this paper to evaluate the transfer functions.
